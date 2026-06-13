@@ -135,7 +135,7 @@
     "commonmark": "0.30.0",
     "cross-env": "7.0.3",
     "diff": "5.1.0",
-    "esbuild": "0.18.12",
+    "esbuild": "0.28.1",
     "eslint": "8.44.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-formatter-codeframe": "7.32.1",
@@ -168,13 +168,13 @@
     "spdx-satisfies": "5.0.1",
     "text-diff": "1.0.1",
     "tsd": "0.28.1",
-    "tsx": "3.12.7",
+    "tsx": "3.14.0",
     "typescript": "5.1.6",
     "wireit": "0.10.0",
     "zod": "3.21.4",
     "undici": "6.19.4",
     "@cloudflare/workers-types": "4.20240725.0",
-    "vitest": "1.5.0"
+    "vitest": "4.1.8"
   },
   "workspaces": [
     "packages/*",
